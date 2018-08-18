@@ -1,0 +1,1 @@
+Please read the official documentation before attempting to print any of the following. gcode files. Please note that some files require multiple copies. You must have a 3D printer that supports the maximum assembly size of this project. Check “Supplemental Spinner Assembly” for measurements of parts.
