@@ -4,18 +4,20 @@
 
 ## Featured
 This device will be featured at the 3rd Annual Inland Empire SI Regional Conference 2018 in Riverside community college (RCC). Pictures will be posted below:
+<br>
 <img src="https://github.com/MinicomSoftware/TheSupplementalSpinner/blob/master/gallery/Photo%20Nov%2017%2C%2012%2046%2023%20PM.jpg" alt="Conference Picture" style="width:640px;height:480px;border:0;">
 
 ## Check the gallery under /gallery to see the creation!
  <a href="https://github.com/MinicomSoftware/TheSupplementalSpinner/tree/master/gallery">
-  <img src="https://github.com/MinicomSoftware/TheSupplementalSpinner/blob/master/gallery/front.jpg" alt="The Supplemental Spinner" style="width:22px;height:22px;border:0;">
+  <img src="https://github.com/MinicomSoftware/TheSupplementalSpinner/blob/master/gallery/front.jpg" alt="The Supplemental Spinner" style="width:640px;height:480px;border:0;">
 </a> 
 
 
 ## The Prototype 
 This device began with the creation of the "Syllabus Spinner" (image below). People would ask to borrow this prototype for their  group studying sessions but I was unable to provide. This version is extremely fragile and can fail if handled incorrectly, so I did not want to run the risk of having people borrow a device that could not perform. It still operates to this day and was a great foundation to create “The Supplemental Spinner”.
+<br>
  <a href="https://github.com/MinicomSoftware/SyllabusSpinner">
-  <img src="https://github.com/MinicomSoftware/SyllabusSpinner/blob/master/gallery/Syllabus%20Spinner%20Image%20(1).jpg?raw=true" alt="HTML tutorial" style="width:22px;height:22px;border:0;">
+  <img src="https://github.com/MinicomSoftware/SyllabusSpinner/blob/master/gallery/Syllabus%20Spinner%20Image%20(1).jpg?raw=true" alt="HTML tutorial" style="width:640px;height:480px;border:0;">
 </a> 
 
 
