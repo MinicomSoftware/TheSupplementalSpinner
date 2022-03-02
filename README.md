@@ -4,7 +4,7 @@
 
 ## Featured
 This device will be featured at the 3rd Annual Inland Empire SI Regional Conference 2018 in Riverside community college (RCC). Pictures will be posted below:
-<img src="https://github.com/MinicomSoftware/TheSupplementalSpinner/blob/master/gallery/Photo%20Nov%2017%2C%2012%2046%2023%20PM.jpg" alt="Conference Picture" style="width:500px;height:500px;border:0;">
+<img src="https://github.com/MinicomSoftware/TheSupplementalSpinner/blob/master/gallery/Photo%20Nov%2017%2C%2012%2046%2023%20PM.jpg" alt="Conference Picture" style="width:640px;height:480px;border:0;">
 
 ## Check the gallery under /gallery to see the creation!
  <a href="https://github.com/MinicomSoftware/TheSupplementalSpinner/tree/master/gallery">
